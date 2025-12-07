@@ -19,7 +19,6 @@ $metadata
 01
 0.1.0.sql
 0.1.1.sql
-0.1.2.sql
 01.sql
 02
 02.sql
